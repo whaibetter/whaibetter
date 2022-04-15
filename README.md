@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @whaibetter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- icon:weixin whaibetter
+- 👀 I’m learning the undergraduate class of data science and big data technology in zhejiang university of science and technology of China
+- 🌱 I’m currently learning java and big data
+- 💞️ 
+- 📫 How to reach me: 
+- wechat:whaibetter
+- email: whaifree@163.com
 
 <!---
 whaibetter/whaibetter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
