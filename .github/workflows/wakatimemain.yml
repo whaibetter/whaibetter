@@ -17,7 +17,8 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_LANGUAGE: False
           SHOW_SHORT_INFO: False
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
+          DEBUG_LOGGING: False
           # 时间线
           # SHOW_LOC_CHART: False
           
