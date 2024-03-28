@@ -19,6 +19,7 @@ jobs:
           SHOW_SHORT_INFO: False
           SYMBOL_VERSION: 1
           DEBUG_LOGGING: False
+          SHOW_PROJECTS: False
           # 时间线
-          # SHOW_LOC_CHART: False
+          SHOW_LOC_CHART: False
           
