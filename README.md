@@ -16,7 +16,7 @@
   - ✉️:邮箱:***whaifree@163.com***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
 
@@ -47,14 +47,14 @@ Sunday                   53 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-Intellijidea             34 hrs 31 mins      █████████████████████████   99.20 % 
-PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Intellijidea             34 hrs 9 mins       █████████████████████████   99.19 % 
+PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  34 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2024 18:37:40 UTC
+ Last Updated on 04/04/2024 18:37:55 UTC
 <!--END_SECTION:waka-->
