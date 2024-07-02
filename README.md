@@ -16,7 +16,9 @@
   - ✉️:邮箱:***whaifree@163.com***
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2035%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **I'm a Night 🦉** 
 
@@ -52,5 +54,5 @@ Windows                  41 mins             ███████████�
 ```
 
 
- Last Updated on 02/07/2024 10:14:05 UTC
+ Last Updated on 02/07/2024 18:40:25 UTC
 <!--END_SECTION:waka-->
