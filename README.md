@@ -47,12 +47,12 @@ Sunday                   111 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/01/2026 18:56:34 UTC
+ Last Updated on 17/01/2026 18:51:17 UTC
 <!--END_SECTION:waka-->
