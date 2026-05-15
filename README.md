@@ -16,43 +16,8 @@
   - ✉️:邮箱:***whaifree@163.com***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   35.76 % 
-🌃 Evening                466 commits         ██████████░░░░░░░░░░░░░░░   40.95 % 
-🌙 Night                  83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Tuesday                  126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Wednesday                187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Friday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Saturday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Sunday                   234 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/05/2026 20:15:36 UTC
+ Last Updated on 15/05/2026 20:02:52 UTC
 <!--END_SECTION:waka-->
